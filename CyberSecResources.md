@@ -89,7 +89,7 @@ Table of Contents
 * [r/security](https://reddit.com/r/security/ "Security")
 * [r/privacy](https://reddit.com/r/privacy/ "Privacy")
 * [r/netsec](https://reddit.com/r/netsec/ "NetSec")
-* [r/cybersecutiy](https://reddit.com/r/cybersecurity/ "CyberSecutiy")
+* [r/cybersecurity](https://reddit.com/r/cybersecurity/ "CyberSecutiy")
 * [r/homelab](https://www.reddit.com/r/homelab/ "HomeLab")
 * [r/malware](https://reddit.com/r/Malware/ "Malware")
 
