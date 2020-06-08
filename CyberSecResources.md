@@ -3,10 +3,8 @@
 ## Overview
 A collected document of all the resources that I have found and used to further my pursuit in becoming an Ethical Hacker!  
 
-
-[1.1]: https://i.ibb.co/1nntf1h/youtube.jpg
-[1]: https://www.youtube.com/channel/UCtbF1R0YKlPAg4qliecw6-w?view_as=subscriber
-# Follow me on [![YouTube][1.1]][1]
+<br/>
+<br/>
 
 Table of Contents
 =================
@@ -37,8 +35,8 @@ Table of Contents
 | <a href="https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g" style="color:green">Null Byte</a> | <a href="https://twitter.com/NullByte" style="color:green">@NullByte</a> |  <a href="https://null-byte.wonderhowto.com/https://null-byte.wonderhowto.com/" style="color:green">null-byte.wonderhowto.com</a> |
 | <a href="https://www.youtube.com/channel/UCK1rytKRQPJh-78RS4jt9eA" style="color:green">Optional</a> | <a href="https://twitter.com/optionalctf" style="color:green">@optionalctf</a> |  <a href="" style="color:green"></a> |
 | <a href="https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg/about" style="color:green">SSTec Tutorials</a> | <a href="https://twitter.com/mehedi_shakeel" style="color:green">@mehedi_shakeel</a> |  <a href="" style="color:green"></a> |
-| <a href="https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos" style="color:green">Loi Liang Yang</a> | <a href="" style="color:green"></a> |
-| <a href="https://t.co/55HUMPboLy?amp=1" style="color:green">IppSec</a> | <a href="https://twitter.com/ippsec" style="color:green">@ippsec</a> |  <a href="http://www.loiliangyang.com/" style="color:green">loiliangyang.com</a> |
+| <a href="https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw/videos" style="color:green">Loi Liang Yang</a> | <a href="" style="color:green"></a> |  <a href="http://www.loiliangyang.com/" style="color:green">loiliangyang.com</a> |
+| <a href="https://t.co/55HUMPboLy?amp=1" style="color:green">IppSec</a> | <a href="https://twitter.com/ippsec" style="color:green">@ippsec</a> |  <a href="https://ippsec.rocks/" style="color:green">ippsec.rocks</a> |
 | <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos" style="color:green">HackerSploit</a> | <a href="https://twitter.com/HackerSploit" style="color:green">@HackerSploit</a> |  <a href="https://hackersploit.org/" style="color:green">hackersploit.org</a> |
 | <a href="https://www.youtube.com/user/RapidBug/videos" style="color:green">InsiderPhD</a> | <a href="https://twitter.com/InsiderPhD" style="color:green">@InsiderPhD</a> |  <a href="" style="color:green"></a> |
 | <a href="https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA/videos" style="color:yellow">Seytonic</a> | <a href="https://twitter.com/SetonicMC" style="color:yellow">@seytonic</a> |  <a href="https://maltronics.com/" style="color:yellow">maltronics.com</a> |
