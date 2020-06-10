@@ -11,13 +11,8 @@ Table of Contents
 * [YouTube](#youtube)
 * [Platform](#platform)
 * [Reddit](#reddit)
+* [Study Material](#study)
 
-## Key
-<p><span style="color:green"<><b>Very Active<em>: This user post regular content on there YouTube channel, twitter, and there discord</em></span></p>
-<p><span style="color:yellow"<><b>Active-ish<em>: The user posts content to their channel but there does not appear to be a schedule.</em></span></p>
-<p><span style="color:red"<><b>Inactive<em>: This account is not active or no new content has been uploaded in the past three months</em></span></p>
-
-<br/>
 <br/>
 <br/>
 
@@ -47,7 +42,7 @@ Table of Contents
 <br/>
 <br/>
 
-<a name="platfrome"></a>
+<a name="platform"></a>
 ## Plateforms
 
 <a href="https://tryhackme.com/">TryHackMe:</a> TryHackMe is an online platform that teaches Cybersecurity through hands-on virtual labs. Whether you are an expert or beginner, learn through a virtual room structure to understand theoretical and practical security elements.  
@@ -94,3 +89,14 @@ Table of Contents
 <br/>
 <br/>
 <br/>
+
+<a name="study"></a>
+## Study Material
+
+[Professory Messer](https://www.professormesser.com/): Professor Messer's CompTIA A+, Network+, and Security+,  training videos, notes, study groups, and IT certification study materials.  
+
+[Daril Gibson](https://getcertifiedgetahead.com/): Has years ago, I set a goal for myself. I decided I wanted to become a full time author and write books that help others.  
+
+[Exam Compass](https://www.examcompass.com/): Online CompTIA practice tests for A+, Network+, and Security+ certification exams. Free score reports are available upon completion of each test.
+
+[Cybrary](https://www.cybrary.it/): Cybrary is the fastest growing, fastest-moving catalog in the industry. By working with an elite community of instructors, experts, and thought leaders, as well as cutting edge hands-on learning providers, we deliver relevant and high-quality content that is accessible anytime, anywhere
