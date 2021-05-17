@@ -23,10 +23,13 @@ Table of Contents
 |:-:|:-:|:-:|
 | <a href="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw" style="color:green">John Hammond</a> | <a href="https://twitter.com/_johnhammond" style="color:green">@_johnhammond</a> |  <a href="" style="color:green"></a> |
 | <a href="https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ" style="color:green">Hak5</a> | <a href="https://twitter.com/Hak5" style="color:green">@Hak5</a> |  <a href="https://shop.hak5.org/" style="color:green">shop.hak5.org</a> |
+| <a href="https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ" style="color:green">NetworkChuck</a> | <a href="https://twitter.com/NetworkChuck" style="color:green">@NetworkChuck</a> |  <a href="https://networkchuck.com/" style="color:green">networkchuck.com</a> |
+| <a href="https://www.youtube.com/channel/UCQiE6iIQr9bNSFaYcFgFYGw" style="color:green">Cybersecurity Meg</a> | <a href="https://twitter.com/cybersecmeg" style="color:green">@cybersecmeg</a> |  <a href="" style="color:green"></a> |
+| <a href="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg" style="color:green">STOK</a> | <a href="https://twitter.com/stokfredrikf" style="color:green">@stokfredrikf</a> |  <a href="https://www.stokfredrik.com/" style="color:green">stokfredrik.com</a> |
 | <a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw" style="color:green">The Cyber Mentor</a> | <a href="https://twitter.com/thecybermentor" style="color:green">@thecybermentor</a> |  <a href="https://www.thecybermentor.com/" style="color:green">thecybermentor.com</a> |
 | <a href="https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw" style="color:green">DC CyberSec</a> | <a href="https://twitter.com/dccybersec" style="color:green">@dccybersec</a> |  <a href="" style="color:green"></a> |
 | <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw" style="color:green">Nahamsec</a> | <a href="https://twitter.com/NahamSec" style="color:green">@NahamSec</a> |  <a href="https://www.nahamsec.com/" style="color:green">nahamsec.com</a> |
-| <a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w" style="color:green">LiveOverflow</a> | <a href="https://twitter.com/LiveOverflow" style="color:green">@LiveOverflow</a> |  <a href="" style="color:green"></a> |
+| <a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w" style="color:green">LiveOverflow</a> | <a href="https://twitter.com/LiveOverflow" style="color:green">@LiveOverflow</a> |  <a href="https://liveoverflow.com/" style="color:green">liveoverflow.com</a> |
 | <a href="https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g" style="color:green">Null Byte</a> | <a href="https://twitter.com/NullByte" style="color:green">@NullByte</a> |  <a href="https://null-byte.wonderhowto.com/https://null-byte.wonderhowto.com/" style="color:green">null-byte.wonderhowto.com</a> |
 | <a href="https://www.youtube.com/channel/UCK1rytKRQPJh-78RS4jt9eA" style="color:green">Optional</a> | <a href="https://twitter.com/optionalctf" style="color:green">@optionalctf</a> |  <a href="" style="color:green"></a> |
 | <a href="https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg/about" style="color:green">SSTec Tutorials</a> | <a href="https://twitter.com/mehedi_shakeel" style="color:green">@mehedi_shakeel</a> |  <a href="" style="color:green"></a> |
@@ -65,6 +68,9 @@ Table of Contents
 **Account Types:**  N/A
 
 <a href="https://www.vulnhub.com/">VulnHub:</a> VulnHub provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks.  
+**Account Types:**  N/A
+
+<a href="https://ctfchallenge.com/">CTFChallenge:</a> CTFchallenge is a series of web application hacking challenges created by me @adamtlangley. Each challenge is built on its own domain and acts like a real functioning website or application. 
 **Account Types:**  N/A
 
 <br/>
