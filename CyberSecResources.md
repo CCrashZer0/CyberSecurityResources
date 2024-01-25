@@ -46,7 +46,7 @@ Table of Contents
 <br/>
 
 <a name="platform"></a>
-## Plateforms
+## Platforms
 
 <a href="https://tryhackme.com/">TryHackMe:</a> TryHackMe is an online platform that teaches Cybersecurity through hands-on virtual labs. Whether you are an expert or beginner, learn through a virtual room structure to understand theoretical and practical security elements.  
     
